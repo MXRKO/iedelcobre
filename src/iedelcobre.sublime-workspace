@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"txt",
+				"txtMensaje"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"mari",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link rel=\"shortcut icon\" href=\"favicon.ico\" >\n    <link rel=\"stylesheet\" href=\"\">\n    <title></title>\n    <!--[if lt IE 9]>\n    <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n</head>\n<body>\n    <header>\n    	<nav>\n\n    	</nav>\n    </header>\n    <div class=\"container\">\n        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus facilisis velit, nec faucibus nunc lobortis eget. Etiam quis pulvinar neque. Nam sed ante pharetra arcu rutrum sagittis et sit amet metus. Aenean vel sapien ut odio vestibulum viverra vel vel nisl. Sed pretium ligula non justo convallis ac tincidunt eros suscipit. Mauris dignissim ultricies purus non pulvinar. Suspendisse id egestas sem. Quisque tempus elit non sem facilisis lobortis. Vestibulum massa tellus, elementum in viverra ac, pharetra eget ligula. Aenean vulputate condimentum libero, sed tincidunt neque mollis quis. Duis vitae ante sed lorem scelerisque eleifend. Etiam pretium blandit nisi sit amet laoreet.</p>\n    </div>\n    <footer>\n\n    </footer>\n</body>\n</html>",
+			"file": "/C/xampp/htdocs/iedelcobre/index.html",
+			"file_size": 1406,
+			"file_write_time": 130457192629067008,
+			"settings":
+			{
+				"buffer_size": 1328,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/iedelcobre/index.html",
+		"/C/xampp/htdocs/pixtagram/index.html",
+		"/C/xampp/htdocs/cuvisar/formatos.php",
+		"/C/xampp/htdocs/cuvisar/index.php",
+		"/C/xampp/htdocs/cuvisar/listado.php",
+		"/C/xampp/htdocs/cuvisar/organigrama.php",
+		"/C/xampp/htdocs/cuvisar/politicasyprocedimientos.php",
+		"/C/xampp/htdocs/cuvisar/quienes.php",
+		"/C/xampp/htdocs/cuvisar/ventanillaunica.php",
+		"/C/xampp/htdocs/cuvisar/index.html",
+		"/C/xampp/htdocs/cuvisar/documentos.php",
+		"/C/xampp/htdocs/cuvisar/mensaje.php",
+		"/C/xampp/htdocs/cuvisar/settings/formatos.php",
+		"/C/xampp/htdocs/cuvisar/formatos.js",
+		"/C/xampp/htdocs/resumen/index.php",
+		"/C/xampp/htdocs/abt/css/atb.css",
+		"/C/xampp/htdocs/cuvisar/src/webfontkit-20140212-005627/stylesheet.css",
+		"/C/xampp/htdocs/cuvisar/ventanillaunica.js",
+		"/C/xampp/htdocs/tcs/mensaje.php",
+		"/C/xampp/htdocs/tcs/contacto.js",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/jquery-myajax.sublime-snippet",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/css-esquinas-redondeadas.sublime-snippet",
+		"/C/xampp/htdocs/cuvisar/src/ErasDemiITCRegular/stylesheet.css",
+		"/C/xampp/htdocs/tcs/css/style.css",
+		"/C/xampp/htdocs/cuvisar/view/menu.php",
+		"/C/xampp/htdocs/cuvisar/src/webfontkit-20140212-003400/stylesheet.css",
+		"/C/Users/MXRKO/Desktop/index.html",
+		"/C/xampp/htdocs/tarea_pagina_web.html",
+		"/G/Desarrollo/localhost/genteynegocios/css/contacto.css",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/css-degradado.sublime-snippet",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/css-responsivo.sublime-snippet",
+		"/G/Desarrollo/localhost/genteynegocios/css/styles.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"></",
+			"font-family: 'eras light itc';\n		font-style: normal;\n		font-weight: 400;		",
+			"';\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/iedelcobre/index.html",
+					"settings":
+					{
+						"buffer_size": 1328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1320,
+								1320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/genteynegocios/src/genteynegocios.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}

@@ -132,10 +132,19 @@
 			}
 		},
 		{
+			"file": "/C/xampp/htdocs/iedelcobre/js/prueba.js",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Windows",
+				"name": "var checkViewport = function(el){ var minTop = jQu"
+			}
+		},
+		{
 			"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 			"settings":
 			{
-				"buffer_size": 1860,
+				"buffer_size": 1862,
 				"line_ending": "Windows"
 			}
 		},
@@ -163,7 +172,10 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -212,7 +224,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -249,12 +261,13 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "/C/xampp/htdocs/iedelcobre/index.html",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 2438,
@@ -264,8 +277,8 @@
 						"selection":
 						[
 							[
-								661,
-								661
+								515,
+								515
 							]
 						],
 						"settings":
@@ -278,28 +291,59 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
-					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
+					"file": "/C/xampp/htdocs/iedelcobre/js/prueba.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1860,
+						"buffer_size": 714,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								516,
-								516
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var checkViewport = function(el){ var minTop = jQu",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 4394.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -311,11 +355,13 @@
 						"translation.y": 212.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 130571,
@@ -339,6 +385,7 @@
 						"translation.y": 56355.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -346,7 +393,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -382,9 +429,14 @@
 		]
 	},
 	"menu_visible": true,
-	"replace":
+	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"project": "iedelcobre.sublime-project",
+	"replace":
+	{
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -407,10 +459,24 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
 	"side_bar_width": 186.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }

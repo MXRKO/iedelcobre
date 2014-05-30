@@ -1,4 +1,4 @@
-body{
+﻿body{
 	position: relative;
 }
 
@@ -18,7 +18,7 @@ body{
 }
 
 	.logo h4{
-		font-size: 1em;
+		font-size: .65em;
 	}
 
 	@media (max-width: 768px){

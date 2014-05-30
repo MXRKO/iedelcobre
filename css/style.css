@@ -1,3 +1,125 @@
 body{
-	
+	position: relative;
+}
+
+.logo{
+	height: 175px;
+	position: absolute;
+	top: 0;
+	z-index: 999;
+	max-width: 320px;
+	display: block;
+	/*background-color: #336699;*/
+	color: #D9D8D8;
+	left: 43%;
+	background-image: url('../img/logo.png');
+	background-position: 15px 30px; 
+	background-repeat: no-repeat;
+}
+
+	.logo h4{
+		font-size: 1em;
+	}
+
+	@media (max-width: 768px){
+		.logo{
+			left: 38%;
+			background-image: none;
+		}
+
+		.logo h4{
+			font-size: 1.2em;
+			padding-top: 5px;
+		}
+	}
+
+ul.nav li a{
+	font-size: 1.3em;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: #AAA8A8;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+	color: #FFF;
+}
+
+
+ul.nav li:nth-child(1){
+	padding-left: 0;
+}
+
+@media (max-width: 768px){
+	ul.nav li:nth-child(1){
+		padding-left: 13px;
+	}	
+}
+
+ul.nav li{
+	padding: 19px 5px 19px 5px;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+.navbar .container{
+	max-width: 900px;
+}
+
+.sub-titulo .container{
+	max-width: 850px;
+	padding-top: 13px;
+	padding-bottom: 13px;
+}
+
+.sub-titulo .container h2{
+	color: #FFF;
+	font-weight: 300;
+}
+
+.principal{
+	max-width: 900px;
+}
+
+@media (max-width: 480px){
+	ul.navbar-nav li{
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+}
+
+@media (max-width: 768px){
+	ul.navbar-nav li{
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+}
+
+.navbar-default{
+	background-color: #2F2B2C;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	border:0;
+}
+
+.sub-titulo{
+	background-color: #3389D7;	
+}
+
+/* Tamaño para tablet en vertical */
+@media screen and (max-width:768px) {
+	/* aqui van los estilos que queramos modificar o agregar*/
+}
+
+/* Tamaño para smartphone en landscape/horizonal */
+@media screen and (max-width:480px) {
+	/* aqui van los estilos que queramos modificar o agregar*/
+}
+
+/* Tamaño para smartphone en vertical */
+@media screen and (max-width:320px) {
+	/* aqui van los estilos que queramos modificar o agregar*/
 }

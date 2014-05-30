@@ -23,7 +23,7 @@ body{
 
 	@media (max-width: 768px){
 		.logo{
-			left: 38%;
+			left: 2%;
 			background-image: none;
 		}
 
@@ -52,7 +52,7 @@ ul.nav li:nth-child(1){
 
 @media (max-width: 768px){
 	ul.nav li:nth-child(1){
-		padding-left: 13px;
+		padding-left: 5px;
 	}	
 }
 

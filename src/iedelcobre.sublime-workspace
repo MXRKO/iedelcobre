@@ -4,8 +4,48 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-image"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
 				"margin",
-				"margin-top"
+				"margin"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"css",
+				"css responsivo	css-responsive-init"
 			],
 			[
 				"back",
@@ -16,18 +56,6 @@
 				"min-height"
 			],
 			[
-				"text",
-				"text-transform"
-			],
-			[
-				"padd",
-				"padding-left"
-			],
-			[
-				"border",
-				"border-top"
-			],
-			[
 				"mar",
 				"margin-left"
 			],
@@ -36,24 +64,8 @@
 				"txtMensaje"
 			],
 			[
-				"font",
-				"font-weight"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"pa",
-				"padding-bottom"
-			],
-			[
 				"lis",
 				"list-style-position"
-			],
-			[
-				"ma",
-				"margin-bottom"
 			],
 			[
 				"li",
@@ -66,10 +78,6 @@
 			[
 				"fon",
 				"font-size"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"paddin",
@@ -116,13 +124,26 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link rel=\"shortcut icon\" href=\"favicon.ico\" >\n    <link rel=\"stylesheet\" href=\"\">\n    <title></title>\n    <!--[if lt IE 9]>\n    <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n</head>\n<body>\n    <header>\n    	<nav>\n\n    	</nav>\n    </header>\n    <div class=\"container\">\n        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus facilisis velit, nec faucibus nunc lobortis eget. Etiam quis pulvinar neque. Nam sed ante pharetra arcu rutrum sagittis et sit amet metus. Aenean vel sapien ut odio vestibulum viverra vel vel nisl. Sed pretium ligula non justo convallis ac tincidunt eros suscipit. Mauris dignissim ultricies purus non pulvinar. Suspendisse id egestas sem. Quisque tempus elit non sem facilisis lobortis. Vestibulum massa tellus, elementum in viverra ac, pharetra eget ligula. Aenean vulputate condimentum libero, sed tincidunt neque mollis quis. Duis vitae ante sed lorem scelerisque eleifend. Etiam pretium blandit nisi sit amet laoreet.</p>\n    </div>\n    <footer>\n\n    </footer>\n</body>\n</html>",
 			"file": "/C/xampp/htdocs/iedelcobre/index.html",
-			"file_size": 1406,
-			"file_write_time": 130457192629067008,
 			"settings":
 			{
-				"buffer_size": 1328,
+				"buffer_size": 2438,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1860,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 130571,
 				"line_ending": "Windows"
 			}
 		}
@@ -155,6 +176,7 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/iedelcobre/js/jquery-1.11.1.min.js",
 		"/C/xampp/htdocs/iedelcobre/index.html",
 		"/C/xampp/htdocs/pixtagram/index.html",
 		"/C/xampp/htdocs/cuvisar/formatos.php",
@@ -204,6 +226,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"@media",
+			"navbar",
+			"@media screen",
 			"></",
 			"font-family: 'eras light itc';\n		font-style: normal;\n		font-weight: 400;		",
 			"';\n"
@@ -232,15 +257,15 @@
 					"file": "/C/xampp/htdocs/iedelcobre/index.html",
 					"settings":
 					{
-						"buffer_size": 1328,
+						"buffer_size": 2438,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1320,
-								1320
+								661,
+								661
 							]
 						],
 						"settings":
@@ -251,6 +276,67 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
+					"settings":
+					{
+						"buffer_size": 1860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 212.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 130571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74005,
+								74005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 56355.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -275,11 +361,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -317,7 +410,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 186.0,
 	"status_bar_visible": true
 }

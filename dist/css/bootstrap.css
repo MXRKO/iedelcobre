@@ -3635,15 +3635,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border: 1px solid #ddd;
 }
 @media (min-width: 768px) {
-  .nav-tabs.nav-justified > li > a {
-    border-bottom: 1px solid #ddd;
-    border-radius: 4px 4px 0 0;
-  }
-  .nav-tabs.nav-justified > .active > a,
-  .nav-tabs.nav-justified > .active > a:hover,
-  .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #fff;
-  }
+    .nav-tabs.nav-justified > li > a {
+        border-bottom: 1px solid #ddd;
+        border-radius: 4px 4px 0 0;
+    }
+    .nav-tabs.nav-justified > .active > a,
+    .nav-tabs.nav-justified > .active > a:hover,
+    .nav-tabs.nav-justified > .active > a:focus {
+        border-bottom-color: #fff;
+    }
 }
 .nav-pills > li {
   float: left;
@@ -3690,7 +3690,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-bottom: 0;
   }
 }
-.nav-tabs-justified {
+.nav-tabs-justified{
   border-bottom: 0;
 }
 .nav-tabs-justified > li > a {
@@ -3724,16 +3724,16 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-.navbar {
-  position: relative;
-  min-height: 50px;
-  margin-bottom: 20px;
-  border: 1px solid transparent;
+.navbar{
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
 }
 @media (min-width: 768px) {
-  .navbar {
-    border-radius: 4px;
-  }
+    .navbar{
+        border-radius: 4px;
+    }
 }
 @media (min-width: 768px) {
   .navbar-header {

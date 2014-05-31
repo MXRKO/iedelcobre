@@ -17,17 +17,21 @@
 	background-repeat: no-repeat;
 }
 
-	.logo h4{
-		font-size: .65em;
-	}
+.navbar .container{
+	width: 900px;
+}
 
 	@media (max-width: 768px){
+		.navbar .container{
+			width: inherit;
+		}
+
 		.logo{
 			left: 2%;
 			background-image: none;
 		}
 
-		.logo h4{
+		.logo h5{
 			font-size: 1.2em;
 			padding-top: 5px;
 		}

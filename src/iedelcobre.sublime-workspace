@@ -127,32 +127,15 @@
 			"file": "/C/xampp/htdocs/iedelcobre/index.html",
 			"settings":
 			{
-				"buffer_size": 2438,
+				"buffer_size": 2640,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/iedelcobre/js/prueba.js",
-			"settings":
-			{
-				"buffer_size": 714,
-				"line_ending": "Windows",
-				"name": "var checkViewport = function(el){ var minTop = jQu"
 			}
 		},
 		{
 			"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 			"settings":
 			{
-				"buffer_size": 1862,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
-			"settings":
-			{
-				"buffer_size": 130571,
+				"buffer_size": 1911,
 				"line_ending": "Windows"
 			}
 		}
@@ -172,10 +155,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
-		"history":
-		[
-		]
+		"height": 0.0
 	},
 	"distraction_free":
 	{
@@ -188,6 +168,8 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
+		"/C/xampp/htdocs/iedelcobre/js/prueba.js",
 		"/C/xampp/htdocs/iedelcobre/js/jquery-1.11.1.min.js",
 		"/C/xampp/htdocs/iedelcobre/index.html",
 		"/C/xampp/htdocs/pixtagram/index.html",
@@ -261,89 +243,58 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "/C/xampp/htdocs/iedelcobre/index.html",
-					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2438,
+						"buffer_size": 2640,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								515,
-								515
+								2442,
+								2442
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 329.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/xampp/htdocs/iedelcobre/js/prueba.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 714,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								714,
-								714
-							]
-						],
-						"settings":
-						{
-							"auto_name": "var checkViewport = function(el){ var minTop = jQu",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 4394.0,
-						"translation.y": -0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
-					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1862,
+						"buffer_size": 1911,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1911,
+								1911
 							]
 						],
 						"settings":
@@ -352,40 +303,9 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 212.0,
+						"translation.y": 1380.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 130571,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74005,
-								74005
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 56355.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -419,7 +339,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.450951683748,
 			1.0
 		],
 		"rows":
@@ -433,7 +353,6 @@
 	{
 		"height": 0.0
 	},
-	"project": "iedelcobre.sublime-project",
 	"replace":
 	{
 		"height": 42.0
@@ -454,29 +373,15 @@
 		[
 			[
 				"",
-				"/C/xampp/htdocs/genteynegocios/src/genteynegocios.sublime-project"
+				"/C/xampp/htdocs/maquinariacampa/src/maquinariacampa.sublime-project"
 			]
 		],
 		"width": 380.0
-	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"settings":
-	{
 	},
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
 	"side_bar_width": 186.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
+	"status_bar_visible": true
 }

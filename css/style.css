@@ -113,17 +113,41 @@ ul.nav li{
 	background-color: #3389D7;	
 }
 
-/* Tamaño para tablet en vertical */
-@media screen and (max-width:768px) {
-	/* aqui van los estilos que queramos modificar o agregar*/
+.part-1{
+	min-height: 280px;
+	padding-top: 90px;
 }
 
-/* Tamaño para smartphone en landscape/horizonal */
-@media screen and (max-width:480px) {
-	/* aqui van los estilos que queramos modificar o agregar*/
+.part-1 p:nth-child(1){
+	font-size: 1.5em;
 }
 
-/* Tamaño para smartphone en vertical */
-@media screen and (max-width:320px) {
-	/* aqui van los estilos que queramos modificar o agregar*/
+.part-1 p:nth-child(2){
+	font-size: 1.3em;
+}
+
+.part-1 input{
+	margin-top: 40px;
+}
+
+footer{
+	background-color: #3876ae;
+}
+
+footer .container{
+	max-width: 900px;
+	padding:0; 
+}
+
+footer .container *{
+	padding:0; 
+}
+
+footer .footer-logo{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-image: url('../img/footer-logo.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
 }

@@ -4,16 +4,32 @@
 		"selected_items":
 		[
 			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
 				"ba",
 				"background-image"
 			],
 			[
 				"pa",
 				"padding-top"
-			],
-			[
-				"bac",
-				"background-repeat"
 			],
 			[
 				"font",
@@ -48,16 +64,8 @@
 				"css responsivo	css-responsive-init"
 			],
 			[
-				"back",
-				"background-color"
-			],
-			[
 				"min",
 				"min-height"
-			],
-			[
-				"mar",
-				"margin-left"
 			],
 			[
 				"txt",
@@ -127,7 +135,7 @@
 			"file": "/C/xampp/htdocs/iedelcobre/index.html",
 			"settings":
 			{
-				"buffer_size": 2640,
+				"buffer_size": 4365,
 				"line_ending": "Windows"
 			}
 		},
@@ -135,7 +143,7 @@
 			"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 			"settings":
 			{
-				"buffer_size": 1911,
+				"buffer_size": 2023,
 				"line_ending": "Windows"
 			}
 		}
@@ -251,15 +259,15 @@
 					"file": "/C/xampp/htdocs/iedelcobre/index.html",
 					"settings":
 					{
-						"buffer_size": 2640,
+						"buffer_size": 4365,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2442,
-								2442
+								4295,
+								3733
 							]
 						],
 						"settings":
@@ -270,7 +278,7 @@
 							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 329.0,
+						"translation.y": 1125.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -286,15 +294,15 @@
 					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 					"settings":
 					{
-						"buffer_size": 1911,
+						"buffer_size": 2023,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1911,
-								1911
+								2023,
+								2023
 							]
 						],
 						"settings":
@@ -303,7 +311,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1380.0,
+						"translation.y": 1754.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

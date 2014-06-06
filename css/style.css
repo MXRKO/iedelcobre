@@ -132,6 +132,7 @@ ul.nav li{
 
 footer{
 	background-color: #3876ae;
+	padding-top: 40px;
 }
 
 footer .container{
@@ -141,6 +142,11 @@ footer .container{
 
 footer .container *{
 	padding:0; 
+}
+
+footer .texto p{
+	color: #FFF;
+	line-height: .8em;
 }
 
 footer .footer-logo{

@@ -132,10 +132,18 @@
 	"buffers":
 	[
 		{
-			"file": "/C/xampp/htdocs/iedelcobre/index.html",
+			"file": "/C/xampp/htdocs/iedelcobre/servicios.html",
 			"settings":
 			{
 				"buffer_size": 4276,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/iedelcobre/index.html",
+			"settings":
+			{
+				"buffer_size": 5585,
 				"line_ending": "Windows"
 			}
 		},
@@ -251,12 +259,12 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/htdocs/iedelcobre/index.html",
+					"file": "/C/xampp/htdocs/iedelcobre/servicios.html",
 					"settings":
 					{
 						"buffer_size": 4276,
@@ -266,8 +274,8 @@
 						"selection":
 						[
 							[
-								3689,
-								3689
+								3618,
+								3618
 							]
 						],
 						"settings":
@@ -282,6 +290,35 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/iedelcobre/index.html",
+					"settings":
+					{
+						"buffer_size": 5585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2701,
+								2701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 645.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		},
@@ -290,7 +327,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 					"settings":
 					{
@@ -301,8 +338,8 @@
 						"selection":
 						[
 							[
-								1716,
-								1716
+								1660,
+								1660
 							]
 						],
 						"settings":

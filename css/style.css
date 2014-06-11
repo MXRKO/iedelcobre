@@ -157,3 +157,127 @@ footer .footer-logo{
 	background-repeat: no-repeat;
 	background-position: center center;
 }
+
+.inner-carrusel{
+	width: 100%;
+	background-color: #3c3e3d;
+	text-align: center;
+	overflow: hidden;
+}
+
+.carrusel{
+	height: 569px;
+	overflow: hidden;
+	width: 1200px;
+	background-color: #3c3e3d;
+	text-align: center;
+	margin: 0 auto;
+}
+
+	.carrusel .item{
+		height: 569px;
+		min-width: 1200px;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		margin: 0 auto;
+	}
+
+	.carrusel .slider01{
+		background-image: url('../img/slider01.jpg');
+		background-position: top center;
+	}
+
+@media (max-width: 768px){
+	.carrusel{
+		height: 170px;
+		width: 0;
+		min-width: 100%;
+	}	
+
+	.carrusel .item{
+		min-width: 100%;	
+		background-size: 100%;
+	}
+}
+
+
+/***********************************************/
+
+/*.carrusel{
+	height: 569px;
+	overflow: hidden;
+	width: 100%;
+	background-color: #3c3e3d;
+	text-align: center;
+}
+
+	.carrusel .item{
+		height: 569px;
+		min-width: 1200px;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		margin: 0 auto;
+	}
+
+	.carrusel .slider01{
+		background-image: url('../img/slider01.jpg');
+		background-position: top center;
+	}
+
+@media (max-width: 768px){
+	.carrusel{
+		height: 170px;
+	}	
+
+	.carrusel .item{
+		min-width: 100%;	
+		background-size: 100%;
+	}
+}*/
+
+/***************************************************/
+
+
+/*.inner-carrusel{
+	width: 100%;
+	background-color: #3c3e3d;
+	text-align: center;
+}
+
+.carrusel{
+	height: 569px;
+	overflow: hidden;
+	width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+	.carrusel .item{
+		height: 569px;
+		min-width: 1200px;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		margin: 0 auto;
+	}
+
+	.carrusel .slider01{
+		background-image: url('../img/slider01.jpg');
+		background-position: top center;
+	}
+
+@media (max-width: 768px){
+	.inner-carrusel{
+		max-width: 100%;
+	}
+
+	.carrusel{
+		height: 170px;
+		max-width: 100%;
+	}	
+
+	.carrusel .item{
+		width: 0;
+		max-width: 100%;	
+		background-size: 100%;
+	}
+}*/

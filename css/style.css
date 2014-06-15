@@ -13,7 +13,8 @@
 	color: #D9D8D8;
 	left: 43%;
 	background-image: url('../img/logo.png');
-	background-position: 15px 30px; 
+	background-size: 70%;
+	background-position: center center; 
 	background-repeat: no-repeat;
 }
 
@@ -100,6 +101,10 @@ ul.nav li{
 	max-width: 900px;
 }
 
+.servicios{
+	margin-top: 60px;
+}
+
 @media (max-width: 480px){
 	ul.navbar-nav li{
 		padding-top: 5px;
@@ -181,16 +186,16 @@ footer .footer-logo{
 
 footer .publimax{
 	text-align: right;
+	background-image: url('../img/publimax.jpg');
+	background-position: right center;
+	background-repeat: no-repeat;
+	padding-right: 65px;
 }
 
-footer .publimax img{
-	line-height: bottom;
-}
-
-footer .publimax span{
-	line-height: 1em;
-	vertical-align: middle;
+footer .publimax p{
+	vertical-align: text-top;
 	color: #FFF;
+	line-height: 4em;
 }
 
 .inner-carrusel{
@@ -395,4 +400,71 @@ footer .publimax span{
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
 	border-bottom: 4px #1b68ae solid;
+}
+
+.carrusel .texto{
+	padding-top: 120px;
+}
+
+.carrusel .texto h2, 
+.carrusel .texto h3{
+	color: #FFF;
+	text-transform: uppercase;
+}
+
+.carrusel .texto h3{
+	font-size: 2.5em;
+}
+.carrusel .texto h2{
+	font-size: 3.1em;
+}
+
+.carrusel .texto h3 span{
+	color: #1b68ae;
+}
+
+.btn-large{
+	width: 160px;
+}
+
+.img-decor{
+	text-align: center;
+	margin: 20px auto 20px auto;
+	width: 70%;
+}
+
+@media (max-width: 768px){
+	.carrusel .texto{
+		padding-top: 0;
+	}
+	.carrusel .texto h3{
+		font-size: 1.7em;
+	}
+	.carrusel .texto h2{
+		font-size: 2.1em;
+	}
+
+	.img-decor{
+		margin: 5px auto 5px auto;
+	}
+}
+
+.formulario input[type=text],
+.formulario textarea{
+	width: 300px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.formulario textarea{
+	height: 120px;
+}
+
+.formulario label{
+	font-size: 1.3em;
+	padding-right: 10px;
+}
+
+.formulario{
+	margin-bottom: 80px;
 }

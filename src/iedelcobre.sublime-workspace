@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"li",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"medi",
+				"media query	css-media-query"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
 				"tex",
 				"text-align"
 			],
@@ -22,10 +50,6 @@
 			[
 				"padding",
 				"padding-top"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"ba",
@@ -52,20 +76,12 @@
 				"padding-top"
 			],
 			[
-				"font",
-				"font-size"
-			],
-			[
 				"max",
 				"max-width"
 			],
 			[
 				"text",
 				"text-align"
-			],
-			[
-				"padd",
-				"padding-top"
 			],
 			[
 				"border",
@@ -82,18 +98,6 @@
 			[
 				"lis",
 				"list-style-position"
-			],
-			[
-				"li",
-				"list-style"
-			],
-			[
-				"te",
-				"text-transform"
-			],
-			[
-				"fon",
-				"font-size"
 			],
 			[
 				"paddin",
@@ -147,7 +151,7 @@
 			"file": "/C/xampp/htdocs/iedelcobre/index.html",
 			"settings":
 			{
-				"buffer_size": 6324,
+				"buffer_size": 7072,
 				"line_ending": "Windows"
 			}
 		},
@@ -171,7 +175,7 @@
 			"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 			"settings":
 			{
-				"buffer_size": 4431,
+				"buffer_size": 5557,
 				"line_ending": "Windows"
 			}
 		}
@@ -179,7 +183,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 288.0,
 		"selected_items":
 		[
 			[
@@ -187,7 +191,7 @@
 				"Snippet: Lorem ipsum"
 			]
 		],
-		"width": 392.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -204,6 +208,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Marco/AppData/Roaming/Sublime Text 2/Packages/User/css-media-query.sublime-snippet",
+		"/C/Users/Marco/AppData/Roaming/Sublime Text 2/Packages/User/jquery-ajax.sublime-snippet",
 		"/C/xampp/htdocs/maquinariacampa/index.php",
 		"/C/xampp/htdocs/maquinariacampa/index.html",
 		"/C/xampp/htdocs/iedelcobre/dist/css/bootstrap.css",
@@ -258,6 +264,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"footer",
+			"45px",
+			"part-1",
+			"parrafo-1",
+			"part-1",
 			"slider",
 			"@media",
 			"navbar",
@@ -319,15 +330,15 @@
 					"file": "/C/xampp/htdocs/iedelcobre/index.html",
 					"settings":
 					{
-						"buffer_size": 6324,
+						"buffer_size": 7072,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4425,
-								4425
+								6691,
+								6718
 							]
 						],
 						"settings":
@@ -337,8 +348,8 @@
 							"translate_tabs_to_spaces": true,
 							"word_wrap": false
 						},
-						"translation.x": 2.0,
-						"translation.y": 1305.0,
+						"translation.x": 0.0,
+						"translation.y": 1583.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -406,15 +417,15 @@
 					"file": "/C/xampp/htdocs/iedelcobre/css/style.css",
 					"settings":
 					{
-						"buffer_size": 4431,
+						"buffer_size": 5557,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4429,
-								4429
+								2541,
+								2541
 							]
 						],
 						"settings":
@@ -423,7 +434,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4049.0,
+						"translation.y": 2302.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

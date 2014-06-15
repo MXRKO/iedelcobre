@@ -44,38 +44,34 @@
     </nav>
     <div class="sub-titulo">
         <div class="container">
-            <h2>Servicios</h2>
+            <h2>Contacto</h2>
         </div>        
     </div>
     <div class="container principal">
         <div class="content">
             <div class="row servicios">
-                <div class=".col-xs-12 col-md-8 part-1 parrafo-1">
-                    <p>Realizamos proyectos e instalaciones de subestaciones eléctricas para cualquier tipo de negocio.</p>
-                    <p class="p-seg">Mantenimiento preventivo a subestación, mantenimiento correctivo a subestación, proyectos eléctricos, líneas subterráneas, líneas aéreas y más.</p>
-                    <input class="btn btn-primary btn-lg" type="button" value="Conoce más">
+                <div class="col-md-6 col-xs-12">
+                    <table class="formulario" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td><label>Nombre</label></td>
+                            <td><input type="text" id="txtNombre" name="txtNombre"></td>
+                        </tr>
+                        <tr>
+                            <td><label>Email</label></td>
+                            <td><input type="text" id="txtEmail" name="txtEmail"></td>
+                        </tr>
+                        <tr>
+                            <td><label>Mensaje</label></td>
+                            <td><textarea id="txtMensaje" name="txtMensaje"></textarea></td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td><input class="btn btn-primary btn-lg btn-personalizado" type="button" value="Enviar" id="btEnviar" name="btEnviar"></td>
+                        </tr>
+                    </table>
                 </div>
-                <div class="col-xs-6 col-md-4 part-1">
-                    <img src="img/machine.jpg" class="img-responsive">
-                </div>
-            </div>
-            <div class="separador-div">&nbsp;</div>
-            <div class="row">
-                <div class="col-xs-6 col-md-4 part-1 parrafo-1">
-                    <img src="img/worker.jpg" class="img-responsive">
-                </div>
-                <div class=".col-xs-12 col-md-8 part-1">
-                    <p>Nos especializamos en instalaciones eléctricas de baja tensión, con un equipo de ingenieros y técnicos, altamente profesionales y capacitados, para brindar el mejor servicio.</p>
-                    <p class="p-seg">Corrección del factor de potencia, UVIE, proyectos eléctricos, aumentos de carga, proyectos de ahorro de energía, sistemas de control y automatización y más.</p>
-                    <input class="btn btn-primary btn-lg" type="button" value="Conoce más">
-                </div>
-            </div>
-            <div class="separador-div">&nbsp;</div>
-            <div class="row div-clientes">
-                <div class="col-md-12">
-                    <div class="col-md-12">
-                        <p>Envíanos un correo electrónico &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="btn btn-primary btn-lg btn-personalizado" type="button" value="Comunícate ya!"></p>
-                    </div>
+                <div class="col-md-6 col-xs-12">
+                    <iframe width="430" height="280" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=200699030428652147663.0004dd484e5a498f18db3&amp;ie=UTF8&amp;t=m&amp;ll=29.171311,-110.903077&amp;spn=0.013115,0.039482&amp;z=15&amp;output=embed"></iframe>
                 </div>
             </div>
         </div>
@@ -100,5 +96,6 @@
     </div>
     <script src="js/jquery-1.11.1.min.js"></script>
     <script src="dist/js/bootstrap.min.js"></script>
+    <script src="contacto.js"></script>
 </body>
 </html>
